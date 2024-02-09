@@ -1,7 +1,7 @@
 # BERT-XDD
 
 ## How it works
-BERT-XDD is a deep learning methodology for effective and interpretable depression detection from social media posts.
+**BERT-XDD** is a deep learning methodology for effective and interpretable depression detection from social media posts.
 
 It effectively combines Large Language Models (LLMs) with eXplainable Artificial Intelligence (XAI) and conversational agents like ChatGPT.
 Explanations are achieved by integrating BERTweet into a self-explainable architecture that relies on the masked attention mechanism.
@@ -11,7 +11,7 @@ The interpretability is further enhanced by using ChatGPT to transform technical
 mental health challenges under the guidance of qualified healthcare professionals.
 
 ## How to cite
-Belcastro, L., Cantini, R., Marozzo, F., Talia, D., & Trunfio, P. (2024). Detecting mental disorder on social media: a ChatGPT-augmented explainable approach. arXiv preprint arXiv:2401.17477.
+*Belcastro, L., Cantini, R., Marozzo, F., Talia, D., & Trunfio, P. (2024). Detecting mental disorder on social media: a ChatGPT-augmented explainable approach. arXiv preprint arXiv:2401.17477.*
 
 ## Reproducibility
 The repo contains all the code, model weights, and code files (jupyter notebooks) for allowing experiment reproducibility.
