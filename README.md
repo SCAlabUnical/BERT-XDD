@@ -1,4 +1,4 @@
-# BERT-XDD
+# Detecting mental disorder on social media: a ChatGPT-augmented explainable approach
 
 ## How it works
 **BERT-XDD** is a deep learning methodology for effective and interpretable depression detection from social media posts.
