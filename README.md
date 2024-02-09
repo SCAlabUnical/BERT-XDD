@@ -14,6 +14,5 @@ mental health challenges under the guidance of qualified healthcare professional
 *Belcastro, L., Cantini, R., Marozzo, F., Talia, D., & Trunfio, P. (2024). Detecting mental disorder on social media: a ChatGPT-augmented explainable approach. arXiv preprint arXiv:2401.17477.*
 
 ## Reproducibility
-The repo contains all the code, model weights, and code files (jupyter notebooks) for allowing experiment reproducibility.
-The used data, also present in the repository, were made available by Rafał Poświata et al. at the following link: https://github.com/rafalposwiata/depression-detection-lt-edi-2022
+This repository hosts all the code (Jupyter notebooks) and data necessary for reproducing experiments. The dataset utilized, originally provided by *Rafał Poświata et al.*, is included within this repository and can also be accessed at the following link: https://github.com/rafalposwiata/depression-detection-lt-edi-2022"
 
